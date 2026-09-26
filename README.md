@@ -4,7 +4,7 @@ A modern, futuristic personal portfolio website showcasing my skills, projects, 
 
 🌐 Live Demo
 
-**[View Live Portfolio]((https://mohima-portfolio-git-main-mohima202.vercel.app/))**
+[View Live Portfolio](https://mohima-portfolio-git-main-mohima202.vercel.app/)
 
 ✨ Features
 * Modern 5D-inspired futuristic UI
